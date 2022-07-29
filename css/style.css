@@ -149,7 +149,7 @@ p {
 .hero {
   background-color: #c4c4c4;
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-    url(/images/hero.jpg);
+    url(./images/hero.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   padding: 200px 0;
